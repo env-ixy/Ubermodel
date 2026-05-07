@@ -7,3 +7,5 @@ None of these individually are new ideas. Collectively potentially.
 I don't currently care enough about ML to implement all of these, but I might, over time, refine only these ideas.
 
 END.
+
+EDIT: shut up and go to ../Uberattempts/
