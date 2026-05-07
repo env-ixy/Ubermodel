@@ -1,0 +1,45 @@
+Iter 0: Pop = 20, Groups = 5, K = 0.2867, Best = [0.905293611598198, 0.8451825459143155], Score = -5.7214, All-time Best Score = -5.7214
+Iter 1: Pop = 5, Groups = 3, K = 0.1442, Best = [1.217270257793551, 1.8142393659835432], Score = -3.2126, All-time Best Score = -3.2126
+Iter 2: Pop = 3, Groups = 3, K = 0.1354, Best = [1.3906286225771676, 2.352722318981307], Score = -2.7145, All-time Best Score = -2.7145
+Iter 3: Pop = 3, Groups = 2, K = 0.0798, Best = [1.3906286225771676, 2.352722318981307], Score = -2.7145, All-time Best Score = -2.7145
+Iter 4: Pop = 2, Groups = 2, K = 0.1697, Best = [1.4732665507225915, 2.6094109168052886], Score = -2.7023, All-time Best Score = -2.7023
+Iter 5: Pop = 2, Groups = 2, K = 0.1650, Best = [1.4732665507225915, 2.6094109168052886], Score = -2.7023, All-time Best Score = -2.7023
+Iter 6: Pop = 2, Groups = 2, K = 0.0909, Best = [1.428995926699489, 2.4718982194239456], Score = -2.6907, All-time Best Score = -2.6907
+Iter 7: Pop = 2, Groups = 2, K = 0.0317, Best = [1.4444295558531761, 2.519837909051978], Score = -2.6900, All-time Best Score = -2.6900
+Iter 8: Pop = 2, Groups = 2, K = 0.0202, Best = [1.4345894793033958, 2.489272822187762], Score = -2.6899, All-time Best Score = -2.6899
+Iter 9: Pop = 2, Groups = 2, K = 0.0091, Best = [1.439036549461092, 2.5030862396925557], Score = -2.6897, All-time Best Score = -2.6897
+Iter 10: Pop = 2, Groups = 2, K = 0.0045, Best = [1.439036549461092, 2.5030862396925557], Score = -2.6897, All-time Best Score = -2.6897
+Iter 11: Pop = 2, Groups = 2, K = 0.0024, Best = [1.439036549461092, 2.5030862396925557], Score = -2.6897, All-time Best Score = -2.6897
+Iter 12: Pop = 2, Groups = 1, K = 0.0010, Best = [1.4389863652448576, 2.5029303582905507], Score = -2.6897, All-time Best Score = -2.6897
+Converged at Iter 13: Final = [1.4389863652448576, 2.5029303582905507], Score = -2.6897, All-time Best = [1.4389863652448576, 2.5029303582905507], All-time Score = -2.6897
+End of cycle----------------------------
+Iter 0: Pop = 20, Groups = 5, K = 0.3274, Best = [0.7469905513458936, 0.9770613940770351], Score = -6.1225, All-time Best Score = -6.1225
+Iter 1: Pop = 5, Groups = 3, K = 0.2387, Best = [1.3533034814125704, 1.2913130253499085], Score = -3.2138, All-time Best Score = -3.2138
+Iter 2: Pop = 3, Groups = 2, K = 0.0838, Best = [1.7462622536703643, 1.494983323444025], Score = -1.8269, All-time Best Score = -1.8269
+Iter 3: Pop = 2, Groups = 2, K = 0.0176, Best = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best Score = -0.8448
+Iter 4: Pop = 2, Groups = 2, K = 0.0162, Best = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best Score = -0.8448
+Iter 5: Pop = 2, Groups = 2, K = 0.0112, Best = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best Score = -0.8448
+Iter 6: Pop = 2, Groups = 2, K = 0.0010, Best = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best Score = -0.8448
+Iter 7: Pop = 2, Groups = 2, K = 0.0010, Best = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best Score = -0.8448
+Iter 8: Pop = 2, Groups = 2, K = 0.0010, Best = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best Score = -0.8448
+Iter 9: Pop = 2, Groups = 1, K = 0.0010, Best = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best Score = -0.8448
+Converged at Iter 10: Final = [2.131502310206327, 1.6991288459084686], Score = -0.8448, All-time Best = [2.131502310206327, 1.6991288459084686], All-time Score = -0.8448
+End of cycle----------------------------
+Iter 0: Pop = 20, Groups = 4, K = 0.4147, Best = [0.8475736317134903, 0.7766170629055493], Score = -6.1296, All-time Best Score = -6.1296
+Iter 1: Pop = 4, Groups = 2, K = 0.4919, Best = [1.3315859020361425, 1.770942417379334], Score = -2.8361, All-time Best Score = -2.8361
+Iter 2: Pop = 2, Groups = 2, K = 0.0021, Best = [1.3315859020361425, 1.770942417379334], Score = -2.8361, All-time Best Score = -2.8361
+Iter 3: Pop = 2, Groups = 1, K = 0.0010, Best = [1.3315859020361425, 1.770942417379334], Score = -2.8361, All-time Best Score = -2.8361
+Converged at Iter 4: Final = [1.3315859020361425, 1.770942417379334], Score = -2.8361, All-time Best = [1.3315859020361425, 1.770942417379334], All-time Score = -2.8361
+End of cycle----------------------------
+Iter 0: Pop = 20, Groups = 4, K = 0.3646, Best = [0.9292780526875856, 0.6787150898789146], Score = -6.0337, All-time Best Score = -6.0337
+Iter 1: Pop = 4, Groups = 2, K = 0.3579, Best = [1.6373755432382242, 1.2584496998241224], Score = -2.4066, All-time Best Score = -2.4066
+Iter 2: Pop = 2, Groups = 2, K = 0.0361, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Iter 3: Pop = 2, Groups = 2, K = 0.0169, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Iter 4: Pop = 2, Groups = 2, K = 0.0063, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Iter 5: Pop = 2, Groups = 2, K = 0.0049, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Iter 6: Pop = 2, Groups = 2, K = 0.0041, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Iter 7: Pop = 2, Groups = 2, K = 0.0024, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Iter 8: Pop = 2, Groups = 2, K = 0.0010, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Iter 9: Pop = 2, Groups = 1, K = 0.0010, Best = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best Score = -1.8715
+Converged at Iter 10: Final = [1.7820903028521051, 1.3769307788247378], Score = -1.8715, All-time Best = [1.7820903028521051, 1.3769307788247378], All-time Score = -1.8715
+End of cycle----------------------------

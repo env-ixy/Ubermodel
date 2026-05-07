@@ -1,0 +1,9 @@
+Dear future idiot,
+Throw away ubermodel. Keep only the novel portions. Careful consideration reveals that 70% if this is complete garbage. 
+Keep only the grouping by f, the local comparisions, adaptive diversity control (k change), soft heiracrchy (samubermodelos, ubermodel and offeraubermodelos) and rho as info transfer not a score transfer.
+
+None of these individually are new ideas. Collectively potentially. 
+
+I don't currently care enough about ML to implement all of these, but I might, over time, refine only these ideas.
+
+END.

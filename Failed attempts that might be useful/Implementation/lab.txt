@@ -1,0 +1,114 @@
+UBERMODEL ALGORITHM (PRELIMINARY SPECIFICATION)
+
+1. MODEL DEFINITION
+
+Each model is defined as a parameter vector:
+
+    p_i = (x_i, y_i)
+
+The population at iteration t is:
+
+    P_t = {p_1, p_2, ..., p_{n_t}}
+
+where n_t is the number of models at iteration t.
+
+
+2. OBJECTIVE FUNCTION
+
+Each model is evaluated using a score function:
+
+    S(p) = -((x - 3)^2 + (y - 2)^2)
+
+Higher values of S indicate better performance.
+
+
+3. FEATURE / GROUPING FUNCTION
+
+Each model has an associated scalar feature:
+
+    f(p) = g(x, y) = x + y
+
+This feature is used only for grouping, not evaluation.
+
+
+4. GROUPING RULE
+
+Models are sorted by f and grouped such that:
+
+    |f_i - f_j| < K
+
+where K is a grouping threshold.
+
+Each group A_f contains models with similar f values.
+
+
+5. SELECTION (χ FUNCTION)
+
+Within each group A_f:
+
+    winner = argmax S(p)
+
+The winner survives, while all other models in the group are considered losers.
+
+
+6. REDISTRIBUTION (ρ FUNCTION)
+
+Let L be the set of losers and W the set of winners.
+
+A simple redistribution rule:
+
+    total_f_losers = sum(f(p) for p in L)
+
+    For each winner w in W:
+        f(w) ← f(w) + α * (total_f_losers / |W|)
+
+where α is a small constant controlling redistribution strength.
+
+
+7. PARAMETER UPDATE
+
+Each surviving model moves toward the best-performing model:
+
+    p_best = argmax S(p) over P_t
+
+    For each p_i in P_t:
+        p_i ← p_i + η (p_best - p_i)
+
+where η ∈ (0,1) is a step size.
+
+
+8. POPULATION UPDATE
+
+After selection:
+
+    P_{t+1} = set of winners
+
+Thus, population size decreases over time.
+
+
+9. TERMINATION CONDITION
+
+The process continues until:
+
+    |P_t| = 1
+
+or
+
+    t reaches maximum iterations.
+
+
+10. SUMMARY OF DYNAMICS
+
+- Models are grouped by feature similarity (f)
+- Local competition selects best models
+- Feature values are redistributed across survivors
+- Parameters are updated toward best-performing model
+- Population shrinks iteratively
+- System balances exploration (early) and exploitation (late)
+
+
+END OF SPECIFICATION
+
+
+
+
